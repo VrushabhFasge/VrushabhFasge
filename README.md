@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on open source projects and personal projects too.
 - 📫 How to reach me 
   1. https://www.instagram.com/_dope_indian_dude_/
-  2. vrfasge@outlook.com
+  2. vrfasge@outlook.com/vrushabhfasge@gmail.com
+  3. linkedin.com/in/vrushabhFasge
 
 <!---
 VrushabhFasge/VrushabhFasge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
