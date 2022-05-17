@@ -5,7 +5,7 @@
 - 📫 How to reach me 
   1. https://www.instagram.com/_dope_indian_dude_/
   2. vrfasge@outlook.com/vrushabhfasge@gmail.com
-  3. linkedin.com/in/vrushabhFasge
+  3. https://www.linkedin.com/in/vrushabhFasge
 
 <!---
 VrushabhFasge/VrushabhFasge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
